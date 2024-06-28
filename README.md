@@ -23,6 +23,6 @@ React frontend for Jobs API providing data for Jobs, with authenticated/protecte
 ### frontend
 
 - npm install
-- configure .env with VITE_BASEURL
+- configure .env with VITE_BASEURL (base url for backend API server)
 - npm run dev
 - connect from the browser to localhost:5173
